@@ -1,4 +1,4 @@
-# coachingcall-demo
+# coachingcall-dmo
 
 ## Beschreibung
 ich bin ein testprojekt
